@@ -1,6 +1,5 @@
 # 👋 Hello, I'm B S Rohit
 
-
 ## 🚀 About Me
 
 - 🌱 I’m learning **Machine Learning** and **Deep Learning**
@@ -13,14 +12,14 @@
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
 ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)
-![Salesforce](https://img.shields.io/badge/-Salesforce-333333?style=flat&logo=salesforce)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Salesforce](https://img.shields.io/badge/-Salesforce-333333?style=flat&logo=salesforce)
 
 
 ---
