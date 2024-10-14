@@ -45,7 +45,7 @@ Alpha is a speech recocogonised voice bot that uses both machine learning (ML) a
 ---
 
 ## 🏆 My Achievements
-- 🏅 Microsoft Certified:** Azure Data Scientist**
+- 🏅 Microsoft Certified: **Azure Data Scientist**
 
 ---
 
