@@ -1,6 +1,5 @@
 # 👋 Hello, I'm B S Rohit
 
----
 
 ## 🚀 About Me
 
@@ -18,6 +17,11 @@
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+
 
 ---
 
@@ -47,5 +51,5 @@ Alpha is a speech recocogonised voice bot that uses both machine learning (ML) a
 
 ## 📫 How to Reach Me
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rohitbs2004@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/bsrohit)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/bsrohit)
 
