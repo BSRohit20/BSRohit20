@@ -1,6 +1,6 @@
 # 👋 Hello, I'm B S Rohit
 
-![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=blue) 
+![Profile views](https://komarev.com/ghpvc/?username=BSRohit20&color=blue) 
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/BSRohit20?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bsrohit/)
 
@@ -52,5 +52,5 @@ Alpha is a speech recocogonised voice bot that uses both machine learning (ML) a
 
 ## 📫 How to Reach Me
 [![Gmail Badge](https://img.shields.io/badge/-rohitbs2004@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rohitbs2004@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-yourprofile-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/bsrohit)
+[![LinkedIn Badge](https://img.shields.io/badge/-bsrohit-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/bsrohit)
 
