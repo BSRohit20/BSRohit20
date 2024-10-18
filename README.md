@@ -29,21 +29,17 @@
 ## 💻 My Projects
 
 ### 🚀 [Intelligent Image Desmoking/Dehazing](#)
-![Project Image](https://via.placeholder.com/500x300.png?text=Project+Screenshot)
 
 A real-time image desmoking and dehazing system, maintaining high image clarity and efficient processing speed.
 
 ---
 
 ### ⚡ [Vehicle Detection and Classification - Using R-CNN](#)
-![Project Image](https://via.placeholder.com/500x300.png?text=Vehicle+Detection)
-
 This project implements a car detection system using PyTorch's Faster R-CNN with a ResNet-50 backbone and Feature Pyramid Networks (FPN).
 
 ---
 
 ### 📊 [Speech Recognised Voice Bot](#)
-![Project Image](https://via.placeholder.com/500x300.png?text=Voice+Bot)
 
 Alpha is a speech-recognized voice bot that uses both ML and DL techniques for tasks like speech recognition, natural language processing, and question-answering.
 
@@ -59,9 +55,8 @@ Alpha is a speech-recognized voice bot that uses both ML and DL techniques for t
 
 ## 🏆 My Achievements
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Microsoft%20Certified:%20Azure%20Data%20Scientist-333333?style=flat&logo=microsoft" />
-</p>
+ 🎉 Microsoft certified : Data Scientist
+
 
 ---
 
