@@ -28,7 +28,7 @@
 
 ## 💻 My Projects
 
-### 🚀 [Intelligent Image Desmoking/Dehazing](#)
+### 🚀 [Image Dehazing using ResNet18](#)
 
 A real-time image desmoking and dehazing system, maintaining high image clarity and efficient processing speed.
 
