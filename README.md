@@ -3,6 +3,9 @@
 ![Header](./github-header-image.png)
 
 ## 🚀 About Me
+
+Hi, I'm Rohit! A passionate learner diving deep into the world of AI and Nanotechnology.
+
 - 🌱 I’m learning **Machine Learning** and **Deep Learning**
 - 🧪 I’m interested in **Artificial Intelligence** and **Nanotechnology**
 - 💬 Ask me about anything related to **Python**, **ML**, and **AI**
@@ -29,19 +32,21 @@
 ## 💻 My Projects
 
 ### 🚀 [Image Dehazing using ResNet18](#)
-
 A real-time image desmoking and dehazing system, maintaining high image clarity and efficient processing speed.
 
----
-
-### ⚡ [Vehicle Detection and Classification - Using R-CNN](#)
+### 🔍 [Vehicle Detection and Classification - Using R-CNN](#)
 This project implements a car detection system using PyTorch's Faster R-CNN with a ResNet-50 backbone and Feature Pyramid Networks (FPN).
 
+### 🤖 [Speech Recognised Voice Bot](#)
+Alpha is a speech-recognized voice bot that uses both ML and DL techniques for tasks like speech recognition, natural language processing, and question-answering.
+
 ---
 
-### 📊 [Speech Recognised Voice Bot](#)
+## 🏆 My Achievements
 
-Alpha is a speech-recognized voice bot that uses both ML and DL techniques for tasks like speech recognition, natural language processing, and question-answering.
+- 🎉 Microsoft Certified: **Data Scientist**
+- 🥇 Microsoft Azure AI Fundamentals Certificate
+- 🌟 NPTEL Introduction to Machine Learning: **Elite Grade**
 
 ---
 
@@ -49,14 +54,8 @@ Alpha is a speech-recognized voice bot that uses both ML and DL techniques for t
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BSRohit20&show_icons=true&theme=radical" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSRohit20&layout=compact&theme=radical" height="180px" />
+  <img src="https://komarev.com/ghpvc/?username=BSRohit20&color=blue" alt="Profile Views" />
 </p>
-
----
-
-## 🏆 My Achievements
-
- 🎉 Microsoft certified : Data Scientist
-
 
 ---
 
@@ -69,4 +68,8 @@ Alpha is a speech-recognized voice bot that uses both ML and DL techniques for t
   <a href="https://linkedin.com/in/bsrohit">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" />
   </a>
+  <a href="https://github.com/BSRohit20">
+    <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" />
+  </a>
 </p>
+
