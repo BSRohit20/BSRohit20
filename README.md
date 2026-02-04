@@ -1,101 +1,117 @@
 ![Header](./github-header-image.png)
 
-## 🚀 About Me
+# Hi, I'm Rohit 👋  
+### Full-Stack Developer | AI / ML Engineer | Python Enthusiast
 
-Hi, I'm Rohit! A passionate learner diving deep into the world of **Artificial Intelligence**, **Nanotechnology**, and **Cybersecurity**.
-
-- 🌱 I’m learning **Machine Learning** and **Deep Learning**
-- 🧪 Interested in **AI**, **Nanotechnology**, and **Secure Systems**
-- 💬 Ask me about **Python**, **ML**, **AI**, and **Cybersecurity**
+I am a **results-driven Full-Stack Developer and AI/ML Engineer** with strong experience in building scalable web applications and intelligent systems. I enjoy solving real-world problems using **Machine Learning**, **Deep Learning**, and **modern web technologies**.
 
 ---
 
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow" />
-  <img src="https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras" />
-  <img src="https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch" />
-  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" />
-  <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5" />
-  <img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3" />
-  <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" />
-  <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" />
-  <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" />
-  <img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker" />
-  <img src="https://img.shields.io/badge/-Static%20Code%20Analysis-333333?style=flat&logo=codefactor" />
-  <img src="https://img.shields.io/badge/-Cybersecurity-333333?style=flat&logo=hackthebox" />
-</p>
+## 🔍 Professional Summary
+- 💻 Full-Stack Development with **JavaScript, Node.js, HTML, CSS**
+- 🤖 AI/ML Engineering using **Python, TensorFlow, PyTorch**
+- 🧠 Strong foundation in **Machine Learning, Deep Learning, NLP**
+- 🛡️ Interest in **Secure Systems & Cybersecurity**
+- 🚀 Actively seeking **Software Developer / AI-ML Engineer roles**
 
 ---
 
-## 💻 My Projects
+## 🛠️ Technical Skills
 
-### 🚀 Image Dehazing using ResNet18
-A real-time image desmoking and dehazing system that enhances visibility while maintaining high processing speed.  
-**Tech:** Python, ResNet18, Deep Learning
+### 👨‍💻 Programming & Development
+- **Languages:** Python, JavaScript  
+- **Frontend:** HTML5, CSS3  
+- **Backend:** Node.js  
+- **Version Control:** Git, GitHub  
 
----
+### 🤖 AI / Machine Learning
+- Machine Learning, Deep Learning  
+- Computer Vision, NLP  
+- TensorFlow, Keras, PyTorch  
 
-### 🔍 Vehicle Detection and Classification (Faster R-CNN)
-A vehicle detection and classification system using PyTorch’s Faster R-CNN with a ResNet-50 backbone and Feature Pyramid Networks (FPN).  
-**Tech:** PyTorch, Computer Vision, Deep Learning
-
----
-
-### 🤖 Speech Recognised Voice Bot
-**Alpha** is a speech-recognized voice bot that performs:
-- Speech recognition
-- Natural language understanding
-- Question answering  
-**Tech:** Python, ML, DL, NLP
+### ☁️ Tools & Platforms
+- Docker  
+- GitHub Actions  
+- Salesforce  
+- Azure AI Fundamentals  
 
 ---
+
+## 💼 Key Projects
 
 ### 🧠 CodeCritic – AI-Powered Code Analysis Tool
-CodeCritic is an intelligent static code analysis system that:
-- Detects bugs and insecure coding patterns
-- Identifies vulnerabilities
-- Suggests code optimizations and best practices  
-**Tech:** Python, Machine Learning, AST Parsing, Static Code Analysis
+AI-driven static code analysis system that improves code quality and security.
+- Detects vulnerabilities and bad coding practices
+- Suggests performance and readability improvements
+- Enforces secure coding standards  
+**Tech:** Python, ML, AST Parsing, Static Analysis
 
 ---
 
 ### 🛡️ NetArmor – ML-Based Network Security System
-NetArmor is a network security and intrusion detection system designed to:
-- Monitor real-time network traffic
-- Detect anomalies and cyber attacks using ML
-- Improve network defense and threat response  
-**Tech:** Python, Machine Learning, Networking, Cybersecurity
+An intelligent intrusion detection and network monitoring system.
+- Real-time traffic analysis
+- Anomaly and attack detection using ML
+- Enhanced threat prevention  
+**Tech:** Python, Machine Learning, Cybersecurity, Networking
 
 ---
 
-## 🏆 My Achievements
-
-- 🎉 Microsoft Certified: **Data Scientist**
-- 🥇 Microsoft Azure **AI Fundamentals** Certificate
-- 🌟 NPTEL **Introduction to Machine Learning** – *Elite Grade*
+### 🚀 Image Dehazing using ResNet18
+Real-time image enhancement system improving clarity in hazy conditions.
+- Optimized for speed and accuracy  
+**Tech:** Python, Deep Learning, ResNet18
 
 ---
 
-## 📈 GitHub Stats
+### 🔍 Vehicle Detection & Classification (Faster R-CNN)
+Advanced vehicle detection system using deep learning.
+- ResNet-50 + Feature Pyramid Networks  
+**Tech:** PyTorch, Computer Vision
+
+---
+
+### 🤖 Speech Recognised Voice Bot
+AI-powered voice assistant for intelligent interaction.
+- Speech recognition & NLP-based Q&A  
+**Tech:** Python, ML, DL, NLP
+
+---
+
+## 🏆 Certifications & Achievements
+- 🎓 **Microsoft Certified: Data Scientist**
+- ☁️ **Microsoft Azure AI Fundamentals**
+- 🌟 **NPTEL – Introduction to Machine Learning (Elite Grade)**
+
+---
+
+## 📈 GitHub Statistics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BSRohit20&show_icons=true&theme=radical" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSRohit20&layout=compact&theme=radical" height="180px" />
-  <img src="https://komarev.com/ghpvc/?username=BSRohit20&color=blue" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BSRohit20&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSRohit20&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" height="170px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BSRohit20&theme=radical" />
 </p>
 
 ---
 
-## 📫 How to Reach Me
+## 📫 Contact Information
+
 <p align="center">
   <a href="mailto:rohitbs2004@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Gmail-red?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/bsrohit">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin"/>
   </a>
   <a href="https://github.com/BSRohit20">
-    <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BSRohit20&label=Profile%20Views&color=blue&style=flat"/>
 </p>
